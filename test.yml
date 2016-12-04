@@ -1,3 +1,4 @@
+---
 - hosts: mysql
   remote_user: root
   tasks:
