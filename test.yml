@@ -1,5 +1,4 @@
----
-- hosts: mysql
+- hosts: mysql1.1more.local
   remote_user: root
   tasks:
     - name: test connection
